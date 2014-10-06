@@ -1,6 +1,6 @@
 /*
  * Author: Laurenz Tolentino
- * Description: this, i forgot what this thing does so i am sorry
+ * Description: this, i forgot what this thing does so i am sorry huhu
  * */
 package jwme_test;
 import java.io.File;
