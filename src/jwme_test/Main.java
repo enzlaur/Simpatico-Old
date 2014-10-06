@@ -1,3 +1,7 @@
+/*
+ * Author: Laurenz Tolentino
+ * Description: this, i forgot what this thing does so i am sorry
+ * */
 package jwme_test;
 import java.io.File;
 import java.io.IOException;
